@@ -205,20 +205,7 @@ nav li {
   margin-top: 150px;
 }
 
-/* Floated Columns ------------------ */
 
-.resorts,
-.tips {
-  width: 46.5%;
-}
-
-.tips {
-  float: left;
-}
-
-.resorts {
-  float: right;
-}
 
 /* Float Clearfix ------------------ */
 
@@ -265,17 +252,12 @@ h1{
     font-size: 5rem;
     line-height: 1.1;
   }
-  .arrow{
-    display: none;
+
   }
   .intro {
     font-size: 1rem;
   }
-  .resorts,
-  .tips {
-    float: none;
-    width: 100%
-  }
+
   .main-footer {
     padding: 20px 0;
   }
